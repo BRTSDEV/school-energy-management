@@ -7,7 +7,7 @@ Values are inferred from how app.py uses them.
 APP_NAME = "S.E.M."
 APP_FULL_NAME = "School Energy Management"
 APP_VERSION = "v1.0"
-AUTHOR = "Bartosz Ambroziewicz"
+AUTHOR = "BRTSDEV"
 PROJECT_TYPE = "GIP (eindwerk)"
 DIRECTION = "Elektrotechnische wetenschappen"
 
